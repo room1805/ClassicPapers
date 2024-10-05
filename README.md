@@ -1,5 +1,7 @@
 # Ground AI Papers
-ground AI papers 
+
+
+
 
 1. **Bernard O. Koopman**, *On distribution admitting a sufficient statistic*  
 2. **David Blackwell**, *Conditional expectation and unbiased sequential estimation*  
@@ -10,7 +12,7 @@ ground AI papers
 7. **Alan G. Hawkes**, *Spectra of Some Self-Exciting and Mutually Exciting Point Processes*  
 8. **Vapnik, V.; Chervonenkis, A.**, *On the uniform convergence of relative frequencies of events to their probabilities*  
 9. **Amir Pnueli**, *The temporal logic of programs*  
-10. **John McCarthy**, *Circumscription – A form of non-monotonic reasoning*  
+10. **John McCarthy**, *Circumscription – A form of non-monotonic reasoning*   [[Discussion](https://github.com/room1805/GroundPapers/discussions/2)]
 11. **Persi Diaconis and David A. Freedman**, *Finite Exchangeable Sequences*  
 12. **Judea Pearl**, *Reverend Bayes on inference engines: A distributed hierarchical approach*  
 13. **Leslie Valiant**, *A theory of the learnable*  
