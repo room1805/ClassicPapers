@@ -38,4 +38,28 @@
 33. **Arnaud Doucet, Nando De Freitas, Kevin Murphy, Stuart Russell**, *Rao-Blackwellised particle filtering for dynamic Bayesian networks*  
 34. **Andrew Y Ng, Stuart J Russell**, *Algorithms for inverse reinforcement learning*  
 35. **John Lafferty, Andrew McCallum, F. Pereira**, *Conditional random fields: Probabilistic models for segmenting and labeling sequence data*  
-36. **Thomas P. Minka**, *Expectation Propagation for Approximate Bayesian Inference*  
+36. **Thomas P. Minka**, *Expectation Propagation for Approximate Bayesian Inference*
+
+
+--- 
+
+### Hinton 
+
+- Sutskever, I. and Hinton, G. E. - **Using matrices to model symbolic relationships.**
+- van der Maaten, L. J. P. and Hinton, G. E. - **Visualizing Data using t-SNE.**
+- Sutskever, I. and Hinton, G. E. - **Deep Narrow Sigmoid Belief Networks are Universal Approximators.**
+- Osindero, S. and Hinton, G. E. - **Modeling image patches with a directed hierarchy of Markov random fields.**
+- Salakhutdinov, R. and Hinton, G. E. - **Using Deep Belief Nets to Learn Covariance Kernels for Gaussian Processes.**
+- Hinton, G. E. - **Learning multiple layers of representation.**
+- Hinton, G. E. - **To recognize shapes, first learn to generate images.**
+- Salakhutdinov, R. R. and Hinton, G. E. - **Semantic Hashing.**
+- Hinton, G. E. and Salakhutdinov, R. R. - **Reducing the dimensionality of data with neural networks.**
+- Hinton, G. E., Osindero, S., Welling, M. and Teh, Y. - **Unsupervised Discovery of Non-linear Structure using Contrastive Backpropagation.**
+- Hinton, G. E., Osindero, S. and Teh, Y. - **A fast learning algorithm for deep belief nets.**
+- Hinton, G. E., Osindero, S. and Bao, K. - **Learning Causally Linked Markov Random Fields.**
+- Carreira-Perpignan, M. A. and Hinton, G. E. - **On Contrastive Divergence Learning.**
+- Goldberger, J., Roweis, S., Salakhutdinov, R. and Hinton, G. E. - **Neighborhood Components Analysis.**
+- Hinton, G. E., Welling, M. and Mnih, A. - **Wormholes Improve Contrastive Divergence.**
+- Hinton, G. E., Welling, M., Teh, Y. W, and Osindero, S. - **A New View of ICA.**
+- Hinton, G. E. - **Training Products of Experts by Minimizing Contrastive Divergence.**
+
